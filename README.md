@@ -1,10 +1,9 @@
 <div align = "center">
   <h3>
-  <p><b>DESAFIO DE TECNOLOGIA (HACKATHON FAM 2021)</b></br>
-  Hackathon feito com a linguagem de programação C, apresentado no 2º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Faculdade das Américas). 
-  </p>
+  <b>DESAFIO DE TECNOLOGIA (HACKATHON FAM 2021)</b></br>
+  <p>Hackathon feito com a linguagem de programação C, apresentado no 2º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Faculdade das Américas).</p>
   </div>
- <h3><b><a href="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/tree/main/Documentação" target="_blank"><p target="blank">• Certificado 🏆</a></b></h3>
+ <h3><b><a href="https://github.com/Biellms/Hackathon-FAM-2021/blob/main/Documentação/Certificado%20Menção%20Honrosa%20Hackathon.pdf" target="_blank"><p target="blank">• Certificado 🏆</a></b></h3>
 <hr>
 
 <p align="center">BLOCO 1: alunos dos 1º e 2º semestres de todos os cursos de Computação e Tecnologia da Informação e Comunicação</p>
@@ -24,9 +23,9 @@
   <p>Para tal problemática foi feito um programa em linguagem C que irá funcionar como um sistema de listagem e classificação diante dos dados fornecidos dentro do programa. No menu inicial na primeira opção o usuário poderá cadastrar os candidatos com nome, edição em que o participante participou ou está participando e o dado estrela que serve para classificar a quantidade de participações pelo participante no evento Hackathon. Na segunda opção se tem a listagem de participantes exibindo todas as suas informações. Na terceira é a opção de saídas onde é exibido todas as classificações e porcentagens de dados do evento Hackhaton. Na quarta é a opção relatório onde irá emitir um pequeno texto informando todas as porcentagens de crescimento do evento e porcentagem de participantes diante suas informações como Edição e Estrela.</p>
   </div>
 
-<h3><b><a href="" target="_blank"><p target="_blank">• Código Desenvolvido 📝</a></b></h3>
+<h3><b><a href="https://github.com/Biellms/Hackathon-FAM-2021/blob/main/Desafio.cpp" target="_blank"><p target="_blank">• Código Desenvolvido 📝</a></b></h3>
 
-<h3><b><a href="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/tree/main/Documentação" target="_blank"><p target="blank">• Documentação 📄</a></b></h3>
+<h3><b><a href="https://github.com/Biellms/Hackathon-FAM-2021/tree/main/Documentação" target="_blank"><p target="blank">• Documentação 📄</a></b></h3>
 
 <div>
   <h3><b><center>Considerações Finais</b></h3>
