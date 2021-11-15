@@ -14,7 +14,7 @@
   </div>
 
 <div align="center">
-  <p><b><h3>Critérios</b></br>
+  <p><b><h3>Critérios</b></br></br>
   <img width="550px" src="https://i.imgur.com/bxnIY76.png"/>
   </div>
 
