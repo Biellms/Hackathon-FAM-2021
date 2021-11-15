@@ -1,8 +1,8 @@
 <div align = "center">
   <h3>
   <b>DESAFIO DE TECNOLOGIA (HACKATHON FAM 2021)</b></br>
-  <p>Hackathon feito com a linguagem de programação C, apresentado no 2º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Faculdade das Américas).</p>
   </div>
+ <p align="center">Hackathon feito com a linguagem de programação C, apresentado no 2º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Faculdade das Américas).</p>
  <h3><b><a href="https://github.com/Biellms/Hackathon-FAM-2021/blob/main/Documentação/Certificado%20Menção%20Honrosa%20Hackathon.pdf" target="_blank"><p target="blank">• Certificado 🏆</a></b></h3>
 <hr>
 
