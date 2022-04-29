@@ -26,10 +26,11 @@ Os integrantes do grupo devem construir um software capaz de controlar e classif
 
 #
 
-<div>
-  <h3><b><center>Desenvolvimento</b></h3>
-  <p>Para tal problemática foi feito um programa em linguagem C que irá funcionar como um sistema de listagem e classificação diante dos dados fornecidos dentro do programa. No menu inicial na primeira opção o usuário poderá cadastrar os candidatos com nome, edição em que o participante participou ou está participando e o dado estrela que serve para classificar a quantidade de participações pelo participante no evento Hackathon. Na segunda opção se tem a listagem de participantes exibindo todas as suas informações. Na terceira é a opção de saídas onde é exibido todas as classificações e porcentagens de dados do evento Hackhaton. Na quarta é a opção relatório onde irá emitir um pequeno texto informando todas as porcentagens de crescimento do evento e porcentagem de participantes diante suas informações como Edição e Estrela.</p>
+<div align="center">
+  <h3><b>Desenvolvimento</b></h3>
   </div>
+
+Para tal problemática foi feito um programa em linguagem C que irá funcionar como um sistema de listagem e classificação diante dos dados fornecidos dentro do programa. No menu inicial na primeira opção o usuário poderá cadastrar os candidatos com nome, edição em que o participante participou ou está participando e o dado estrela que serve para classificar a quantidade de participações pelo participante no evento Hackathon. Na segunda opção se tem a listagem de participantes exibindo todas as suas informações. Na terceira é a opção de saídas onde é exibido todas as classificações e porcentagens de dados do evento Hackhaton. Na quarta é a opção relatório onde irá emitir um pequeno texto informando todas as porcentagens de crescimento do evento e porcentagem de participantes diante suas informações como Edição e Estrela.
 
 <h4><b><a href="https://github.com/Biellms/Hackathon-FAM-2021/blob/main/Desafio.cpp" target="_blank"><p target="_blank">• Código Desenvolvido 📝</a></b></h3>
 
@@ -37,10 +38,11 @@ Os integrantes do grupo devem construir um software capaz de controlar e classif
 
 #
 
-<div>
-  <h3><b><center>Considerações Finais</b></h3>
-  <p>O programa conseguiu satisfazer o desafio proposto bem como os métodos foram suficientes para a solução. Agradecemos aos coordenadores do Hackathon que trouxeram muitos conhecimentos e boas práticas para nós alunos bem como sua a disposição e tempo para a promoção do projeto.</p>
+<div align="center">
+  <h3><b>Considerações Finais</b></h3>
   </div>
+
+O programa conseguiu satisfazer o desafio proposto bem como os métodos foram suficientes para a solução. Agradecemos aos coordenadores do Hackathon que trouxeram muitos conhecimentos e boas práticas para nós alunos bem como sua a disposição e tempo para a promoção do projeto.
 
 #
 
